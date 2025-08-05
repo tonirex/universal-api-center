@@ -1,6 +1,6 @@
 {
 	"name": "Universal API Center Dev Container",
-	"image": "mcr.microsoft.com/vscode/devcontainers/dotnet:8.0-jammy",
+	"image": "mcr.microsoft.com/devcontainers/dotnet:9.0",
 	"hostRequirements": {
 	  "cpus": 4
 	},
